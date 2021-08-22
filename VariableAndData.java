@@ -20,7 +20,7 @@ public class VariableAndData {
 	 System.out.println(d + Dipraj);
 	 
 	 //Format specifier
-	  System.out.printf("This is the value of = %d %c", Dipraj , c);
+	  System.out.printf("This is the value of = %d %c", Dipraj  , c);
 	 
 }
 }
