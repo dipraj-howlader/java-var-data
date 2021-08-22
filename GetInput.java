@@ -21,7 +21,12 @@ public class GetInput {
 		myName = stringInpu.next();
 		System.out.println("HYE My Name is : " + myName);
 		
+		//get double type value
 		
+		System.out.println("Printing my Math exam result");
+		Scanner myMath = new Scanner(System.in);
+		double math = myMath.nextDouble();
+		System.out.println("This is my bloody math number : " + math);
 
 		 
 	}
