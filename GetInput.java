@@ -14,6 +14,13 @@ public class GetInput {
 		
 		System.out.println("This is my gf number: " + number);
 		
+		//using string type
+		System.out.println("Printing My Name\n");
+		String myName;
+		Scanner stringInpu = new Scanner(System.in);
+		myName = stringInpu.next();
+		System.out.println("HYE My Name is : " + myName);
+		
 		
 
 		 
