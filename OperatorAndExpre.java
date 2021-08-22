@@ -13,7 +13,7 @@ public class OperatorAndExpre {
 		int sum = num1 + num2;
 		int Sub  = num1 - num2;
 		int Mul = num1 * num2;
-		int div = num1 / num2;
+		float div = (float) num1 / num2;
 		System.out.println("Sum IS :"+ sum);
 		System.out.println("Sub IS :"+ Sub);
 		System.out.println("Mul IS :" + Mul);
