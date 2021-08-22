@@ -19,5 +19,24 @@ public class OperatorAndExpre {
 		System.out.println("Mul IS :" + Mul);
 		System.out.println("Div IS :" + div);
 		
+		
+		//Assignment operator
+		
+		int x = 5;
+		int y = 6; 
+		// x = x+y
+		x+=y;
+		System.out.println("Sum of :\n" + x);
+		
+		x-=y;
+		System.out.println("Sum of :\n" + x);
+		x*=y;
+		System.out.println("Sum of :\n" + x);
+		x/=y;
+		System.out.println("Sum of :\n" + x);
+		x%=y;
+		System.out.println("Sum of :\n" + x);
+		
+		
 	}
 }
