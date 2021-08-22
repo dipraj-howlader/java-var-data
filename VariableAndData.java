@@ -17,6 +17,10 @@ public class VariableAndData {
 	 short s = 125;
 	 System.out.println(s);
 	 System.out.println("This is whole = "+d+ B + fa + c + s + Dipraj);
+	 System.out.println(d + Dipraj);
+	 
+	 //Format specifier
+	  System.out.printf("This is the value of = %d %c", Dipraj , c);
 	 
 }
 }
